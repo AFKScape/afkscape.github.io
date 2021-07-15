@@ -7,7 +7,4 @@ This repo hosts the webpage for testers to easily find the latest version of AFK
 It is a resizable monitor that has been optimized for the Runescape© client, for Windows Vista, 7, 8, or 10.
 
 ## Can I test AFKS?
-In the future maybe. Check the discussions on this repo ;)
-
-## <3
-ZZ
+In the future maybe.
