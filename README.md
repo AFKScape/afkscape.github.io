@@ -1,12 +1,12 @@
-## What is this repo?
+## WHAT IS THIS REPO?
 This repo hosts the webpage for testers to easily find the latest version of AFKS via https://afkscape.github.io/.
 
-## What is AFKS?
+## WHAT IS AFKS?
 ![Feature_PIP](https://user-images.githubusercontent.com/80352375/125836377-c39947f0-c84a-4d84-ac5b-74f95196c369.gif)
 
 AFKScape is a resizable monitor that has been created with the Runescape© client in mind, for Windows Vista, 7, 8, or 10.
 
-## What are the key features of AFKS?;
+## WHAT ARE THE KEY FEATURES OF AFKS?;
 
     Clone any of your Runescape© clients and keep it always-on-top while working with other windows.
     
@@ -22,5 +22,5 @@ AFKScape is a resizable monitor that has been created with the Runescape© clien
     
     Adjustable opacity.
 
-## Can I test AFKS?
+## CAN I TEST AFKS?
 In the future maybe.
