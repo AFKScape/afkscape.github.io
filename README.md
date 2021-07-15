@@ -4,7 +4,23 @@ This repo hosts the webpage for testers to easily find the latest version of AFK
 ## What is AFKS?
 ![Feature_PIP](https://user-images.githubusercontent.com/80352375/125836377-c39947f0-c84a-4d84-ac5b-74f95196c369.gif)
 
-It is a resizable monitor that has been optimized for the Runescape© client, for Windows Vista, 7, 8, or 10.
+AFKScape is a resizable monitor that has been created with the Runescape© client in mind, for Windows Vista, 7, 8, or 10.
+
+## What are the key features of AFKS?;
+
+    Clone any of your Runescape© clients and keep it always-on-top while working with other windows.
+    
+    “Click forwarding”: allows interaction with the Runescape© client and replicate dragging.
+    
+    Times clicks with colour notification to prevent lobbying.
+    
+    Select a subregion of the cloned window (Not limited to Runescape).
+    
+    Auto-resizing (fit the original window, half, quarter and fullscreen mode).
+    
+    Position lock on any corner of your screen.
+    
+    Adjustable opacity.
 
 ## Can I test AFKS?
 In the future maybe.
