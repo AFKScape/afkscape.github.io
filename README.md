@@ -1,5 +1,5 @@
 ## WHAT IS THIS REPO?
-This repo hosts the webpage for testers to easily find the latest version of AFKS via https://afkscape.github.io/.
+This repo hosts the AFKS webpage for testers to easily find the latest version of via https://afkscape.github.io/.
 
 ## WHAT IS AFKS?
 ![Feature_PIP](https://user-images.githubusercontent.com/80352375/125836377-c39947f0-c84a-4d84-ac5b-74f95196c369.gif)
@@ -8,13 +8,15 @@ AFKScape is a resizable monitor that has been created with the Runescape© clien
 
 ## WHAT ARE THE KEY FEATURES OF AFKS?;
 
-    Clone any of your Runescape© clients and keep it always-on-top while working with other windows.
+    Scaleable Runescape©!
     
-    “Click forwarding”: allows interaction with the Runescape© client and replicate dragging.
+    Keep it always-on-top while working with other windows.
+    
+    Interaction with the Runescape© client and replicate dragging.
     
     Times clicks with colour notification to prevent lobbying.
     
-    Select a subregion of the cloned window (Not limited to Runescape).
+    Select a subregion of the cloned window.
     
     Auto-resizing (fit the original window, half, quarter and fullscreen mode).
     
@@ -23,4 +25,4 @@ AFKScape is a resizable monitor that has been created with the Runescape© clien
     Adjustable opacity.
 
 ## CAN I TEST AFKS?
-In the future maybe.
+Only by invite at the moment
