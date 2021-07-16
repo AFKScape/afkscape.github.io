@@ -1,5 +1,5 @@
 ## WHAT IS THIS REPO?
-This repo hosts the AFKS webpage for testers to easily find the latest version of via https://afkscape.github.io/.
+This repo hosts the AFKS webpage for testers to easily find the latest version via https://afkscape.github.io/.
 
 ## WHAT IS AFKS?
 ![Feature_PIP](https://user-images.githubusercontent.com/80352375/125836377-c39947f0-c84a-4d84-ac5b-74f95196c369.gif)
