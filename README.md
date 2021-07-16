@@ -8,7 +8,7 @@ AFKScape is a resizable monitor that has been created with the Runescape© clien
 
 ## WHAT ARE THE KEY FEATURES OF AFKS?;
 
-    Scaleable Runescape©!
+    Scalable Runescape©!
     
     Keep it always-on-top while working with other windows.
     
